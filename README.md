@@ -1,0 +1,1 @@
+C Implementation of  a safe string that carries its size
